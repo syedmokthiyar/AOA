@@ -13,7 +13,7 @@ To write a python program to implement quick sort using tha last element as pivo
 4. Base Case: If a sublist has 1 or fewer elements, it is already sorted
 ## Program:
 
-Developed by: Kishore S
+Developed by: Syed Mokthiyar S M
 Register Number:  212222240050
 ```python
 def partition(arr,low,high):
