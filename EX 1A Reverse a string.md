@@ -13,9 +13,9 @@ To write a program to create a recursive function to reverse a string.
 4. Return the Result: Once the recursion completes, the string will be reversed.  
 
 ## Program:
-Developed by: Kishore S
+Developed by: Syed Mokthiyar S M
 
-Register Number: 212222240050
+Register Number: 212222230156
 
 ```python
 def revstring(str):
