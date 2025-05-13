@@ -11,8 +11,8 @@ To write a python program for a search function with parameter list name and the
 3. If not present, return -1.
 
 ## Program:
-Developed by: Kishore S
-Register Number: 212222240050 
+Developed by: Syed Mokthiyar S M
+Register Number: 212222230156 
 
 ```python
 def search(List, n):
