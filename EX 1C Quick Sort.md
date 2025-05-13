@@ -14,7 +14,7 @@ To write a python program to implement quick sort using tha last element as pivo
 ## Program:
 
 Developed by: Syed Mokthiyar S M
-Register Number:  212222240050
+Register Number:  212222230156
 ```python
 def partition(arr,low,high):
     i = ( low-1 )
